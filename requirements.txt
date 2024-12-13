@@ -1,0 +1,9 @@
+streamlit==1.26.0
+langchain==0.0.200
+langchain-core<0.2.0,>=0.1.40
+langchainplus-sdk==0.0.20
+langchain-groq==0.1.0
+psycopg2-binary==2.9.7
+pydantic<2,>=1
+sqlalchemy==1.4.48
+python-dotenv==1.0.0
