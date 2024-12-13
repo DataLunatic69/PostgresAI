@@ -94,7 +94,7 @@ def connect():
 
 ## **License**
 
-### **1. Chat Input**
+
 ```bash
 "This project is licensed under the MIT License. See the LICENSE file for more details
 ."
