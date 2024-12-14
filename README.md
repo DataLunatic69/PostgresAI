@@ -63,7 +63,7 @@ port=<YOUR_DB_PORT>
 ```
 ## **Usage**
 
-### **1. Clone the Repository**
+### **1. Run the script**
 ```bash
 streamlit run app.py
 ```
